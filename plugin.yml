@@ -1,0 +1,7 @@
+name: SaoFrFood
+version: 1.0
+author: Byakko
+main: fr.byakko.foodplugin.Main
+commands:
+  food:
+    description: Food commands

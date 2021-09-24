@@ -1,0 +1,28 @@
+############################################################
+# +------------------------------------------------------+ #
+# |                       Messages                       | #
+# +------------------------------------------------------+ #
+############################################################
+
+messages:
+  permission: "&cVous n'avez pas la permission nécessaire pour utiliser cette commande"
+  effects-inexist: "&cCette effet n'existe pas"
+  not-food: "&cCette item n'est pas mengeable"
+  not-integer: "&cVous devez entrer un nombre"
+  bad-time-format: "&cLa syntaxe de la durée est fausse <valeur>(h = heure/s = seconde/m = minute)"
+  integer-less-0: "&cVous devez mettre un nombre supérieur à 0"
+  integer-more-10: "&cVous devez mettre un nombre compris entre 0 et 10"
+  empty-time: "&cVous devez entrer une durée"
+  not-value: "&cVous devez insérer une valeur"
+  
+############################################################
+# +------------------------------------------------------+ #
+# |                       Configs                           | #
+# +------------------------------------------------------+ #
+############################################################
+
+prefix: "&c[&eSaoFrFood&c]"
+
+key-licence: "" #Clé nécessaire pour le fonctionnement du plugin
+
+#Permissions : SaoFrFood.* 
