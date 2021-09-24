@@ -4,8 +4,8 @@ IggDrasilFoodPlugin is a plugin for minecraft 1.12.2 which serves to add differe
 
 Commands : 
 
-/food : Command to help you with the different commands
+-  /food : Command to help you with the different commands
 
-/food <ligne> <Hunger/Health> <valeur> <couleur> : Command to add Hunger/Health to the consumable
-/food  <ligne> <effet> <Niv effet> <durée s/m/h> <couleur> : Command to add effect to the consumable
+-  /food <ligne> <Hunger/Health> <valeur> <couleur> : Command to add Hunger/Health to the consumable
+-  /food  <ligne> <effet> <Niv effet> <durée s/m/h> <couleur> : Command to add effect to the consumable
   
